@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/199674736?v=4&size=64">
+  <img src="https://avatars.githubusercontent.com/u/199674736?v=4&size=64" width="300px" height="200px">
 </p>
 
 <h1 align="center">🚀 UpsTech - SEMASPE (Sistema de Eficiência e Melhoria de Softwares) 🛠️</h1>
