@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[INSERIR AQUI O LINK PARA O LOGO DA UPSTECH]" alt="Logo UpsTech" width="150">
+  <img src="https://avatars.githubusercontent.com/u/199674736?v=4&size=64">
 </p>
 
 <h1 align="center">🚀 UpsTech - SEMASPE (Sistema de Eficiência e Melhoria de Softwares) 🛠️</h1>
@@ -30,7 +30,7 @@ Por favor, consulte o nosso [**guia de contribuição**](CONTRIBUTING.md) para s
 
 ### Licença:
 
-Este projeto está licenciado sob a [**INSERIR LICENÇA AQUI**]. Consulte o arquivo `LICENSE` para obter mais detalhes.
+Este projeto está licenciado sob a [**UpsTech**]. Consulte o arquivo `LICENSE` para obter mais detalhes.
 
 ### Suporte:
 
